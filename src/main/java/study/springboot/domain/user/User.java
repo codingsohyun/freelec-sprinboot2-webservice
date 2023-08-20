@@ -6,7 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import study.springboot.domain.BaseTimeEntity;
 
-import javax.management.relation.Role;
+//import javax.management.relation.Role;
 
 @Getter
 @NoArgsConstructor
